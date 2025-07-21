@@ -1,0 +1,33 @@
+What is Git?
+--------------
+Version Control System.
+Created By Linux.
+
+Repository---> Project Folder.
+Commit ---> A snapshot of changes.
+Staging area---> Place to hold the changes before saving
+
+username and email auth
+----------------------------
+git config --global user.name ""
+git config --global user.email ""
+
+Initialize git
+---------------
+git init.
+
+git status---> to chek the status of the files.
+git add "fileName"
+git commit -m "First commit"
+
+unstaged changes----> staged changes----> commit.
+
+
+GitHub
+-------
+Cloud Platform to store Git repos.
+Git is a tool. GitHub is a platform.
+
+Creating GitHub Repo 
+-----------------------
+got to https://github.com.
